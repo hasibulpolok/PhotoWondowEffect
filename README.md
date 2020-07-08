@@ -1,3 +1,3 @@
 # PhotoWondowEffect
 
-#By [Hasibul Polok](https://www.fiverr.com/users/hasibulpolokbd)
+#By [Hasibul Polok](https://www.facebook.com/users/hasibulpolokbd)
