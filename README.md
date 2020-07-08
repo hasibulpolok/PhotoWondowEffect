@@ -1,2 +1,3 @@
 # PhotoWondowEffect
-Created with CodeSandbox
+
+#By [Hasibul Polok](https://www.fiverr.com/users/hasibulpolokbd)
